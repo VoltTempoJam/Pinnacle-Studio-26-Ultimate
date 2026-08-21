@@ -1,0 +1,29 @@
+{
+  "repo": "pinnacle-studio-26-ultimate",
+  "product": "Pinnacle Studio 26 Ultimate",
+  "kind": "video",
+  "install_type": "nexpath",
+  "install_url": "https://pinnacle-studio.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "video",
+  "topics": [
+    "pinnacle-studio",
+    "video-editing",
+    "timeline-editing",
+    "video-effects",
+    "transitions",
+    "home-video",
+    "content-creation",
+    "pinnacle-26",
+    "pinnacle-setup-failed-fix",
+    "how-to-install-pinnacle-studio",
+    "pinnacle-windows",
+    "video-tools",
+    "windows-tools",
+    "media-utility"
+  ],
+  "stars_cache": 23,
+  "nexpath_slug": "pinnacle-studio",
+  "nexpath_app_name": "Pinnacle Studio"
+}
